@@ -25,7 +25,7 @@ const organizacion = [
 	{
 		cargo: 'Soporte & Programador Web',
 		funciones: [
-			'Creación de soluciones Web y Mobile',
+			'Creación de soluciones Web y Mobile.',
 			'Da soporte a los distintos requerimientos de los usuarios.',
 			'Integra datos de Back-end a Front-end.',
 			'Identifica fallas y crea soluciones Informáticas.',

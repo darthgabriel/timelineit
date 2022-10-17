@@ -19,7 +19,7 @@ export default function Header() {
 					<img src={JetourLogo} className='mr-3 h-6 sm:h-10' />
 					<img src={KarryLogo} className='mr-3 h-6 sm:h-10' />
 				</a>
-				<div>IT & MD</div>
+				<div>Dpto IT & MD</div>
 			</div>
 		</nav>
 	);
