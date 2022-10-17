@@ -5,11 +5,11 @@ const organizacion = [
 			'Planifica, Diseña y Ejecuta estrategias con el fin de que la tecnología sea un aporte a la Organización y al correcto desarrollo de la misma.',
 			'Administra y Desarrolla la plataforma tecnológica de la Organización.',
 			'Controla y Refuerza la estabilidad operativa y continuidad del servicio de IT.',
-			'Techlead  de nuevas Apps.',
+			'TechLead  de nuevas Apps.',
 			'Monitoreo directo de Marcas, Tendencias y Competencias.',
 			'Pone en practica campañas de Marketing que garanticen éxito.',
 			'Dirige campañas de Arte y Marketing.',
-			'Desarolla estrategias y tacticas para aumentar la reputación de la marca.',
+			'Desarrolla estrategias y tácticas para aumentar la reputación de la marca.',
 		],
 	},
 	{
