@@ -9,7 +9,7 @@ const Main = () => {
 		<div className='text-white my-5 flex flex-col place-items-center'>
 			<div className='mb-4 text-4xl font-extrabold tracking-tight leading-none md:text-5xl lg:text-6xl self-end hover:animate-pulse mr-10'>Dpto IT & Marketing Digital</div>
 			<div className='text-2xl'></div>
-			<div className='flex mt-5 gap-20'>
+			<div className='flex flex-wrap mt-5 gap-20 justify-center'>
 				{organizacion.map((e, i) => (
 					<PerfilesCargo cargo={e.cargo} funciones={e.funciones} key={i} />
 				))}
@@ -40,7 +40,7 @@ const FuncionesCargo = ({ funciones }) => (
 );
 
 const MyTimeLine = ({ timeline = [] }) => (
-	<ol class='relative border-l border-gray-200 w-fit'>
+	<ol class='relative border-l border-gray-200 w-fit ml-4'>
 		{timeline.map((e, i) => (
 			<li class='mb-10 ml-4' key={i}>
 				<div class='absolute w-3 h-3 bg-gray-200 rounded-full mt-1.5 -left-1.5 border border-white '></div>
